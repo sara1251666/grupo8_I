@@ -2,3 +2,8 @@ Resposta Exercício B:
 Duas desvantagens dos Sistemas de controlo de versões centralizado são: Perda total do projeto em caso de avaria do servidor, processo mais lento e demorado.
 Como o projeto apenas se encontra armazenado no servidor, em caso de perda total deste, todo o projeto perde-se e há a impossibilidade de o recuperar.
 Entretanto no desenvolvimento do projeto torna-se um processo mais pesado na criação de ramificações, pois é necessário fazer comunicação com o servidor e aguardar que o mesmo dê uma resposta. 
+
+Resposta Exercício C:
+1. Working Station
+2. Staging Area
+3. .Git Repository (Repository)
