@@ -1,1 +1,3 @@
 ReadMe. é uusa para converter o ficheiro em html e que mostre o resumo ou informaçao do projeto
+
+stashing - stashing é o que guarda informaçao mas nao fica staged
