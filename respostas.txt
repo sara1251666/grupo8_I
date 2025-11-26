@@ -9,3 +9,5 @@ Resposta Exercício C:
 3. .Git Repository (Repository)
 
 H) git rm
+
+j)serve para remover ficheiros da diretoria 
