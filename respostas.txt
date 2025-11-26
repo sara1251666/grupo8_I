@@ -7,3 +7,5 @@ Resposta Exercício C:
 1. Working Station
 2. Staging Area
 3. .Git Repository (Repository)
+
+H) git rm
